@@ -1,6 +1,6 @@
 Description
 
-This is a fully functional real estate web application built using ASP.NET Core MVC. The application includes features such as property listings, user authentication, agent profiles, and an admin dashboard. It also integrates with Stripe for payment processing, OTP for enhanced security, and follows a 3-tier architecture for scalability and maintainability.
+This is a fully functional real estate web application built using ASP.NET Core MVC. The application includes features such as property listings, It also integrates with Stripe for payment processing, OTP for enhanced security, and follows a 3-tier architecture for scalability and maintainability.
 Technologies Used
 
     HTML: Markup language for structuring the web pages.
