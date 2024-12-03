@@ -2,18 +2,30 @@ Description
 
 This is a fully functional real estate web application built using ASP.NET Core MVC. The application includes features such as property listings, It also integrates with Stripe for payment processing, OTP for enhanced security, and follows a 3-tier architecture for scalability and maintainability.
 Technologies Used
+Frontend
 
-    HTML: Markup language for structuring the web pages.
-    CSS: Used for styling the web pages and making them responsive.
-    JavaScript: Added interactivity to the application, such as dynamic content and validation.
-    Bootstrap: A framework used for responsive design and pre-built components.
-    ASP.NET MVC: The main framework used for developing the backend and structuring the application.
-    Stripe: Integrated for payment processing and handling transactions.
-    OTP (One-Time Password): Added for secure Register.
-    3-Tier Architecture: Used to separate concerns into three distinct layers:
-        Presentation Layer (UI)
-        Business Logic Layer (Services)
-        Data Access Layer (Database)
+    HTML5
+    CSS3
+    JavaScript (ES6)
+    Bootstrap
+
+Backend
+
+    ASP.NET MVC
+
+Architecture
+
+    3-Tier Architecture: Separation of concerns into Presentation, Business Logic, and Data Access layers.
+    Repository Pattern: For cleaner and maintainable data access code.
+
+Security
+
+    OTP-based login verification for enhanced security.
+    User role management to prevent unauthorized access.
+
+Payment Gateway
+
+    Integrated Stripe for seamless and secure payment transactions
 
 Features
 
