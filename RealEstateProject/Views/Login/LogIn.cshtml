@@ -1,0 +1,36 @@
+﻿@{
+    Layout = "~/Views/Shared/_LayoutLogin.cshtml";
+}
+
+<body>
+    <div class="login-container">
+        <h1>Login</h1>
+
+        @if (ViewBag.errorMessage != null)
+
+        {
+            <div class="alert alert-danger" role="alert">
+                @ViewBag.errorMessage
+            </div>
+        }
+
+        <form method="post" action="@Url.Action("LogIn", "Login")">
+            @Html.AntiForgeryToken()
+
+            <input type="email" class="input-field" placeholder="Email" name="Email" required />
+            <input type="password" class="input-field" placeholder="Password" name="Password" required />
+
+            <div class="remember-me">
+                <input type="checkbox" id="remember" />
+                <label for="remember">Remember me</label>
+            </div>
+
+            <button type="submit" class="login-btn">Login</button>
+
+            <div class="register-link">
+                Don't have any account?
+                <a asp-action="SignUp" asp-controller="Login">Register Now</a>
+            </div>
+        </form>
+    </div>
+</body>

@@ -1,0 +1,165 @@
+:root {
+    /* Colors */
+    --navbar-bg-color: #333; /* Dark background for the navbar */
+    --navbar-text-color: #fff; /* White text in navbar */
+    --navbar-hover-color: #555; /* Darker color for hover effect */
+    --color-primary: #205E61; /* Primary color, matching the navbar's tone */
+    --color-secondary: var(--navbar-bg-color); /* Use navbar background for secondary color */
+    --color-light-gray: #f5f5f5; /* Light gray for backgrounds */
+    --color-white: #ffffff;
+    --color-gray: #999999;
+    --extra-light: #f4f6f5;
+    --orange-soda: #FFAD60;
+    --max-width: 1200px;
+    --header-font: "Merriweather", serif;
+    /* Spacing */
+    --spacing-small: 10px;
+    --spacing-medium: 15px;
+    --spacing-large: 20px;
+    --spacing-xl: 30px;
+    --spacing-xxl: 40px;
+    /* Border Radius */
+    --border-radius-pill: 50px;
+    --border-radius-box: 20px;
+    /* Font Sizes */
+    --font-size-normal: 16px;
+    --font-size-large: 32px;
+    /* Container Sizes */
+    --container-max-width: 400px;
+    --container-padding: var(--spacing-xxl);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: var(--color-secondary); /* Match the background to navbar color */
+    padding: var(--spacing-medium);
+}
+
+.login-container {
+    background: var(--color-white); /* White background for the form */
+    padding: var(--container-padding);
+    border-radius: var(--border-radius-box);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: var(--container-max-width);
+}
+
+h1 {
+    text-align: center;
+    color: var(--color-primary); /* Use primary color for heading */
+    margin-bottom: var(--spacing-xl);
+    font-size: var(--font-size-large);
+}
+
+.input-field {
+    width: 100%;
+    padding: var(--spacing-medium);
+    margin: var(--spacing-small) 0;
+    border: none;
+    border-radius: var(--border-radius-pill);
+    background-color: var(--color-light-gray); /* Light gray background for inputs */
+    font-size: var(--font-size-normal);
+    outline: none;
+    color: var(--color-primary); /* Primary text color */
+}
+
+select.input-field {
+    appearance: none;
+    background-color: var(--color-light-gray); /* Optional: Adjust as per color scheme */
+    background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%235c68a0' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3e%3cpolyline points='6 9 12 15 18 9'%3e%3c/polyline%3e%3c/svg%3e");
+    background-repeat: no-repeat;
+    background-position: right var(--spacing-medium) center;
+    background-size: 1em;
+    padding-right: calc(var(--spacing-medium) * 2.5);
+}
+
+.remember-me {
+    display: flex;
+    align-items: center;
+    margin: var(--spacing-medium) 0;
+    color: var(--color-primary); /* Adjust color of text */
+}
+
+.login-btn {
+    width: 100%;
+    padding: var(--spacing-medium);
+    border: none;
+    border-radius: var(--border-radius-pill);
+    background-color: var(--color-primary); /* Button with navbar color */
+    color: var(--color-white);
+    font-size: var(--font-size-normal);
+    cursor: pointer;
+    transition: background-color 0.3s;
+    margin-top: var(--spacing-medium);
+}
+
+    .login-btn:hover {
+        background-color: var(--navbar-hover-color); /* Hover color for button */
+    }
+
+.register-link {
+    text-align: center;
+    margin-top: var(--spacing-large);
+    color: var(--color-primary);
+}
+
+    .register-link a {
+        color: var(--color-primary);
+        text-decoration: none;
+        font-weight: bold;
+    }
+
+        .register-link a:hover {
+            text-decoration: underline;
+        }
+
+/* Responsive Design */
+@media screen and (max-width: 480px) {
+    :root {
+        /* Adjust spacing for mobile */
+        --container-padding: var(--spacing-large);
+        --font-size-large: 28px;
+        --border-radius-pill: 25px;
+        --border-radius-box: 15px;
+    }
+
+    .input-field {
+        padding: var(--spacing-small);
+    }
+
+    .login-btn {
+        padding: var(--spacing-small);
+    }
+}
+
+@media screen and (max-width: 320px) {
+    :root {
+        /* Further adjustments for smaller devices */
+        --font-size-large: 24px;
+        --font-size-normal: 14px;
+        --spacing-xxl: 20px;
+    }
+
+    .remember-me input[type="checkbox"] {
+        width: 16px;
+        height: 16px;
+    }
+}
+
+/* For larger screens */
+@media screen and (min-width: 1200px) {
+    :root {
+        --container-max-width: 450px;
+        --font-size-large: 36px;
+    }
+}

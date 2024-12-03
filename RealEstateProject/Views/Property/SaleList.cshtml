@@ -1,0 +1,113 @@
+﻿@model IEnumerable<DataAccessLayer.ViewModels.PropertyVM>
+
+
+<!-- Property List Start -->
+<div class="container-xxl py-5">
+    <div class="container">
+        <div class="row g-0 gx-5 align-items-end">
+            <div class="col-lg-6">
+                <div class="text-start mx-auto mb-5 wow slideInLeft" data-wow-delay="0.1s">
+                    <h2 class="mb-3">Listing For Sale</h2>
+
+                </div>
+            </div>
+
+            <div class="tab-content">
+                <div id="tab-1" class="tab-pane fade show p-0 active">
+                    <div class="row g-4">
+                        @if (ViewBag.ErrorMessage != null)
+                        {
+                            <div class="alert alert-danger" role="alert">
+                                @ViewBag.ErrorMessage
+                            </div>
+                        }
+                        <ul class="property-list has-scrollbar">
+            @foreach (var property in Model)
+            {
+                    <li>
+                        <div class="property-card">
+
+                            <figure class="card-banner">
+
+                                <a asp-action="PropertyDetails" asp-controller="Property" asp-route-id="@property.Id">
+                                    <img src="~/images/@property.Image" alt="@property.Title" class="w-100">
+                                </a>
+
+                                <div class="card-badge @(property.Choice == "For Rent" ? "green" : "blue")">
+                                @property.Choice
+                                </div>
+
+                                <div class="banner-actions">
+                                    <button class="banner-actions-btn">
+                                        <ion-icon name="location"></ion-icon>
+                                        <address>@property.Address</address>
+                                    </button>
+                                </div>
+
+                            </figure>
+
+                            <div class="card-content">
+
+                                <div class="card-price">
+                                    <strong>EGP @property.Price</strong> 
+                                @(property.Choice == "For Rent" ? "/Month" : "")
+                                </div>
+
+                                <h3 class="h3 card-title">
+                                    <a asp-action="PropertyDetails" asp-controller="Property" asp-route-id="@property.Id">
+                                    @property.Title
+                                    </a>
+                                </h3>
+
+                                <ul class="card-list">
+
+                                    <li class="card-item">
+                                        <strong>@property.Rooms</strong>
+                                        <ion-icon name="bed-outline"></ion-icon>
+                                        <span>Bedrooms</span>
+                                    </li>
+
+                                    <li class="card-item">
+                                        <strong>@property.Baths</strong>
+                                        <ion-icon name="man-outline"></ion-icon>
+                                        <span>Bathrooms</span>
+                                    </li>
+
+                                    <li class="card-item">
+                                        <strong>@property.Size</strong>
+                                        <ion-icon name="square-outline"></ion-icon>
+                                        <span>Metre</span>
+                                    </li>
+
+                                </ul>
+
+                            </div>
+
+                            <div class="card-footer">
+                                <div class="card-footer-actions">
+                                    <button class="card-footer-actions-btn">
+                                        <ion-icon name="resize-outline"></ion-icon>
+                                    </button>
+                                    <button class="card-footer-actions-btn">
+                                        <ion-icon name="heart-outline"></ion-icon>
+                                    </button>
+                                    <button class="card-footer-actions-btn">
+                                        <ion-icon name="add-circle-outline"></ion-icon>
+                                    </button>
+                                </div>
+                            </div>
+
+                        </div>
+                    </li>
+            }
+        </ul>
+
+                        <a class="btn btn-outline-primary" asp-action="Index" asp-controller="Home">Back</a>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <!-- Property List End -->

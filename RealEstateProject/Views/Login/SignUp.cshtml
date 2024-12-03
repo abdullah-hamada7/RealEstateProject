@@ -1,0 +1,32 @@
+﻿@{
+    Layout = "~/Views/Shared/_LayoutLogin.cshtml";
+}
+
+<body>
+    <div class="login-container">
+        <h1>Sign Up</h1>
+        @if (TempData["ErrorMessage"] != null)
+
+        {
+            <div class="alert alert-danger" role="alert">
+                @TempData["ErrorMessage"]
+            </div>
+        }
+
+        <form method="post" action="@Url.Action("SignUp", "Login")">
+            @Html.AntiForgeryToken()
+
+            <input type="text" class="input-field" placeholder="First Name" name="FirstName" required />
+            <input type="text" class="input-field" placeholder="Last Name" name="LastName" required />
+            <input type="email" class="input-field" placeholder="Email" name="Email" required />
+            <input type="text" class="input-field" placeholder="Contact" name="Contact" required />
+            <input type="password" class="input-field" placeholder="Password" name="Password" required />
+
+            <button type="submit" class="login-btn">Sign Up</button>
+        </form>
+
+        <div class="register-link">
+            Already have an account? <a asp-action="LogIn" asp-controller="Login">Log In</a>
+        </div>
+    </div>
+</body>

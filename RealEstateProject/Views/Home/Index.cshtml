@@ -1,0 +1,356 @@
+﻿﻿@using DataAccessLayer.ViewModels;
+@model PropertyListPlusTypeVM
+
+@{
+    var typesForDropDown = Model.types;
+
+    var choicesForDropDown = Model.choices;
+
+    var type = Model.propertyTypesCountVM;
+
+    var list = Model.propertyList;
+}
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+@* <!-- Header Start -->
+<div class="container-fluid header bg-white p-0">
+    <div class="row g-0 align-items-center flex-column-reverse flex-md-row">
+        <div class="col-md-6 p-5 mt-lg-5">
+            <h1 class="display-5 animated mb-4">Find the <span class="text-primary">Perfect Home</span> for Your Family</h1>
+
+            <p class="animated  mb-4 pb-2">
+                Discover your dream home where comfort meets convenience.Start your journey today and experience the joy of a truly welcoming home.
+            </p>
+            <a asp-action="PropertyGetAll" asp-controller="Property" class="btn btn-primary py-3 px-5 me-3 animated">Get Started</a>
+        </div>
+        <div class="col-md-6 animated">
+            <div class="owl-carousel header-carousel">
+                <div class="owl-carousel-item">
+                    <img class="img-fluid" src="~/theme/img/carousel-1.jpg" alt="">
+                </div>
+                <div class="owl-carousel-item">
+                    <img class="img-fluid" src="~/theme/img/carousel-2.jpg" alt="">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Header End --> *@
+        <header class="section__container header__container" id="home">
+            <div class="header__image">
+                <img src="~/images/dillon-kydd-2keCPb73aQY-unsplash.jpg" alt="header" />
+            </div>
+            <div class="header__content">
+                <div>
+                    <h1>Discover Modern Living Spaces With Us</h1>
+                    <p>
+                        We provide you with expert assistance in buying, renting, or selling luxurious and sophisticated properties,
+                        ensuring excellence at every step.
+                    </p>
+                </div>
+            </div>
+        </header>
+<!-- Search Start -->
+<div class="container-fluid bg-primary mb-5" style="padding: 35px;">
+    <div class="container">
+        <form method="post" asp-action="SearchBox" asp-controller="Home">
+            <div class="row g-2">
+                <div class="col-md-10">
+                    <div class="row g-2">
+                        <div class="col-md-4">
+                            <input type="text" name="location" class="form-control border-0 py-3" placeholder="Location" required>
+                        </div>
+                        <div class="col-md-4">
+                            <select name="typeId" class="form-select border-0 py-3" required>
+                                <option value="">Property type</option>
+                                @{
+                                    if (typesForDropDown != null)
+
+                                    {
+
+                                        foreach (var m in typesForDropDown)
+
+                                        {
+                                            <option value="@m.Id">@m.Type1</option>
+                                        }
+
+                                    }
+                                }
+                            </select>
+                        </div>
+                        <div class="col-md-4">
+                            <select name="choiceId" class="form-select border-0 py-3" required>
+                                <option value="">Property choice</option>
+                                @{
+                                    if (choicesForDropDown != null)
+
+                                    {
+
+                                        foreach (var m in choicesForDropDown)
+
+                                        {
+                                            <option value="@m.Id">@m.Choice1</option>
+                                        }
+
+                                    }
+                                }
+                            </select>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-2">
+                    <button type="submit" class="btn btn-dark border-0 w-100 py-3">Search</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+<!-- Search End -->
+<!-- Category Start -->
+<div class="container-xxl py-5">
+    <div class="container">
+        <div class="text-center mx-auto mb-5" style="max-width: 600px;">
+            <h1 class="mb-3">Property Types</h1>
+            <p>Different types of properties available here.</p>
+        </div>
+        <div class="row g-4">
+            <div class="col-lg-4 col-sm-6">
+                <a class="cat-item d-block bg-light text-center rounded p-3" asp-action="ApartmentList" asp-controller="Property">
+                    <div class="rounded p-4">
+                        <div class="icon mb-3">
+                            <img class="img-fluid" src="~/theme/img/icon-apartment.png" alt="Icon">
+                        </div>
+                        <h6>Apartment</h6>
+                        <span>@type.ApartmentCount Properties</span>
+                    </div>
+                </a>
+            </div>
+            <div class="col-lg-4 col-sm-6">
+                <a class="cat-item d-block bg-light text-center rounded p-3" asp-action="villaList" asp-controller="Property">
+                    <div class="rounded p-4">
+                        <div class="icon mb-3">
+                            <img class="img-fluid" src="~/theme/img/icon-villa.png" alt="Icon">
+                        </div>
+                        <h6>Villa</h6>
+                        <span>@type.VillCount Properties</span>
+                    </div>
+                </a>
+            </div>
+            <div class="col-lg-4 col-sm-6">
+                <a class="cat-item d-block bg-light text-center rounded p-3" asp-action="HomeList" asp-controller="Property">
+                    <div class="rounded p-4">
+                        <div class="icon mb-3">
+                            <img class="img-fluid" src="~/theme/img/icon-house.png" alt="Icon">
+                        </div>
+                        <h6>Home</h6>
+                        <span>@type.HomeCount Properties</span>
+                    </div>
+                </a>
+            </div>
+            <div class="col-lg-4 col-sm-6">
+                <a class="cat-item d-block bg-light text-center rounded p-3" asp-action="OfficeList" asp-controller="Property">
+                    <div class="rounded p-4">
+                        <div class="icon mb-3">
+                            <img class="img-fluid" src="~/theme/img/icon-housing.png" alt="Icon">
+                        </div>
+                        <h6>Office</h6>
+                        <span>@type.OfficeCount Properties</span>
+                    </div>
+                </a>
+            </div>
+            <div class="col-lg-4 col-sm-6">
+                <a class="cat-item d-block bg-light text-center rounded p-3" asp-action="BuildingList" asp-controller="Property">
+                    <div class="rounded p-4">
+                        <div class="icon mb-3">
+                            <img class="img-fluid" src="~/theme/img/icon-building.png" alt="Icon">
+                        </div>
+                        <h6>Building</h6>
+                        <span>@type.BuildingCount Properties</span>
+                    </div>
+                </a>
+            </div>
+            <div class="col-lg-4 col-sm-6">
+                <a class="cat-item d-block bg-light text-center rounded p-3" asp-action="TownHouseList" asp-controller="Property">
+                    <div class="rounded p-4">
+                        <div class="icon mb-3">
+                            <img class="img-fluid" src="~/theme/img/icon-neighborhood.png" alt="Icon">
+                        </div>
+                        <h6>Townhouse</h6>
+                        <span>@type.TownHouseCount Properties</span>
+                    </div>
+                </a>
+            </div>
+
+
+        </div>
+    </div>
+</div>
+<!-- Category End -->
+<!-- Property List Start -->
+<div class="container-xxl py-5">
+    <div class="container">
+        <div class="row g-0 gx-5 align-items-end">
+            <div class="col-lg-6">
+                <div class="text-start mx-auto mb-5">
+                    <h1 class="mb-3">Property Listing</h1>
+                    <p>All you need are here.</p>
+                </div>
+            </div>
+        </div>
+
+<ul class="property-list has-scrollbar">
+            @foreach (var property in list)
+            {
+                    <li>
+                        <div class="property-card">
+
+                            <figure class="card-banner">
+
+                                <a asp-action="PropertyDetails" asp-controller="Property" asp-route-id="@property.Id">
+                                    <img src="~/images/carousel-2245314920.jpg" alt="@property.Title" class="w-100">
+                                </a>
+
+                                <div class="card-badge @(property.Choice == "For Rent" ? "green" : "blue")">
+                                @property.Choice
+                                </div>
+
+                                <div class="banner-actions">
+                                    <button class="banner-actions-btn">
+                                        <ion-icon name="location"></ion-icon>
+                                        <address>@property.Address</address>
+                                    </button>
+                                </div>
+
+                            </figure>
+
+                            <div class="card-content">
+
+                                <div class="card-price">
+                                    <strong>EGP @property.Price</strong> 
+                                @(property.Choice == "For Rent" ? "/Month" : "")
+                                </div>
+
+                                <h3 class="h3 card-title">
+                                    <a asp-action="PropertyDetails" asp-controller="Property" asp-route-id="@property.Id">
+                                    @property.Title
+                                    </a>
+                                </h3>
+
+                                <ul class="card-list">
+
+                                    <li class="card-item">
+                                        <strong>@property.Rooms</strong>
+                                        <ion-icon name="bed-outline"></ion-icon>
+                                        <span>Bedrooms</span>
+                                    </li>
+
+                                    <li class="card-item">
+                                        <strong>@property.Baths</strong>
+                                        <ion-icon name="man-outline"></ion-icon>
+                                        <span>Bathrooms</span>
+                                    </li>
+
+                                    <li class="card-item">
+                                        <strong>@property.Size</strong>
+                                        <ion-icon name="square-outline"></ion-icon>
+                                        <span>Metre</span>
+                                    </li>
+
+                                </ul>
+
+                            </div>
+
+                            <div class="card-footer">
+                                <div class="card-footer-actions">
+                                    <button class="card-footer-actions-btn">
+                                        <ion-icon name="resize-outline"></ion-icon>
+                                    </button>
+                                    <button class="card-footer-actions-btn">
+                                        <ion-icon name="heart-outline"></ion-icon>
+                                    </button>
+                                    <button class="card-footer-actions-btn">
+                                        <ion-icon name="add-circle-outline"></ion-icon>
+                                    </button>
+                                </div>
+                            </div>
+
+                        </div>
+                    </li>
+            }
+        </ul>
+
+
+                    <div class="col-12 text-center wow fadeInUp">
+                        <a class="btn btn-primary py-3 px-5" asp-action="PropertyGetAll" asp-controller="Property">Browse More Property</a>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+<!-- Property List End -->
+
+
+<section class="about-section" id="about-content">
+    <div class="about-content">
+      <img src="~/images/dillon-kydd-XGvwt544g8k-unsplash.jpg" alt="About Image" class="about-image">
+      <div class="text-content">
+        <h2 class="par">About Us</h2>
+        <p>Our platform is user-friendly, allowing you to manage property listings, interact with agents, and track the
+          status of your transactions. Whether you're looking to buy, sell, or rent a property, our system connects you
+          to the right people and ensures a transparent, efficient process.</p>
+        <button class="cta-button">Contact us</button>
+      </div>
+    </div>
+  </section>
+   
+<!--services-->
+<div class="wrapper">
+  <h1>Our Services</h1>
+
+  <div class="content-box">
+      <div class="card">
+          <i class="bx bxs-home"></i>
+          <h2>Property Buying</h2>
+          <p>Let us help you find the perfect place to call home, tailored to your lifestyle and needs. </p>
+
+      </div>
+      <div class="card">
+          <i class="bx bxs-building-house"></i>
+          <h2>Property Selling</h2>
+          <p>Sell your property quickly and efficiently with our expert marketing strategies.</p>
+
+      </div>
+      <div class="card">
+          <i class="bx bxs-key"></i>
+
+          <h2>Home Renting</h2>
+          <p>Explore a wide range of rental homes that suit your budget and preferences.</p>
+
+      </div>
+      <div class="card">
+          <i class="bx bxs-cog"></i>
+          <h2>Property Management</h2>
+          <p> Relax while we handle all the details of managing your valuable property.</p>
+
+      </div>
+      <div class="card">
+          <i class="bx bxs-bar-chart-alt-2"></i>
+          <h2>Market Analysis</h2>
+          <p> Make informed decisions with in-depth real estate market insights and trends.</p>
+
+      </div>
+      <div class="card">
+          <i class="bx bxs-book"></i>
+          <h2>Legal Assistance</h2>
+          <p> Navigate the complexities of real estate transactions with ease. 
+          Our legal team offers guidance on contracts, documentation, and compliance.</p>
+
+      </div>
+  </div>
+</div>
+  
