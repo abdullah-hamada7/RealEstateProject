@@ -15,3 +15,4 @@ C:\Users\chief\source\repos\RealEstateProject\BusinessLogicLayer\obj\Debug\net8.
 C:\Users\chief\source\repos\RealEstateProject\BusinessLogicLayer\obj\Debug\net8.0\ref\BusinessLogicLayer.dll
 C:\Users\chief\source\repos\RealEstateProject\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.runtimeconfig.json
 C:\Users\chief\source\repos\RealEstateProject\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.genruntimeconfig.cache
+C:\Users\chief\source\repos\RealEstateProject\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.sourcelink.json
