@@ -12,3 +12,4 @@ C:\Users\chief\source\repos\RealEstateProject\DataAccessLayer\obj\Debug\net8.0\r
 C:\Users\chief\source\repos\RealEstateProject\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.runtimeconfig.json
 C:\Users\chief\source\repos\RealEstateProject\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.genruntimeconfig.cache
 C:\Users\chief\source\repos\RealEstateProject\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\chief\source\repos\RealEstateProject\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.sourcelink.json

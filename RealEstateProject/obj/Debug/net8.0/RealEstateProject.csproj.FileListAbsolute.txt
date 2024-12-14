@@ -138,3 +138,8 @@ C:\Users\chief\source\repos\RealEstateProject\RealEstateProject\obj\Debug\net8.0
 C:\Users\chief\source\repos\RealEstateProject\RealEstateProject\obj\Debug\net8.0\RealEstateProject.genruntimeconfig.cache
 C:\Users\chief\source\repos\RealEstateProject\RealEstateProject\obj\Debug\net8.0\ref\RealEstateProject.dll
 C:\Users\chief\source\repos\RealEstateProject\RealEstateProject\bin\Debug\net8.0\Stripe.net.dll
+C:\Users\chief\source\repos\RealEstateProject\RealEstateProject\bin\Debug\net8.0\RealEstateProject.staticwebassets.endpoints.json
+C:\Users\chief\source\repos\RealEstateProject\RealEstateProject\obj\Debug\net8.0\RealEstateProject.sourcelink.json
+C:\Users\chief\source\repos\RealEstateProject\RealEstateProject\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\chief\source\repos\RealEstateProject\RealEstateProject\obj\Debug\net8.0\staticwebassets\msbuild.RealEstateProject.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\chief\source\repos\RealEstateProject\RealEstateProject\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

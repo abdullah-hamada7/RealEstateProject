@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RealEstateProject.bundle.scp.css",
-      "PackagePath": "staticwebassets\\RealEstateProject.bundle.scp.css"
+      "PackagePath": "staticwebassets\\RealEstateProject.h79jczhp3x.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\wwwroot\\css\\loginPage.css",
@@ -17915,6 +17915,10 @@
     {
       "Id": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\wwwroot\\theme\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
       "PackagePath": "staticwebassets\\theme\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.RealEstateProject.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.RealEstateProject.Microsoft.AspNetCore.StaticWebAssets.props",
