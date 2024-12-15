@@ -30,14 +30,12 @@ public class LoginRepository : ILoginRepository
     {
         try
         {
-            // Create MailMessage object
             MailMessage message = new MailMessage();
             message.From = new MailAddress("realestate@gmail.com"); 
             message.To.Add(email);
             message.Subject = "OTP for Sign Up";
             message.Body = $"Your OTP for sign up is: {otp}";
 
-            // Configure SMTP client for Gmail
             SmtpClient smtp = new SmtpClient("smtp.gmail.com", 587);
             smtp.UseDefaultCredentials = false;
             smtp.Credentials = new NetworkCredential("realestate@gmail.com", "real-estate");
