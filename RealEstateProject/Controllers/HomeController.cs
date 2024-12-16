@@ -48,7 +48,7 @@ public class HomeController : Controller
             return BadRequest("Invalid amount specified.");
         }
 
-        var currency = "egp";
+        var currency = "EGP";
         var successUrl = Url.Action("Success", "Home", null, Request.Scheme);
         var cancelUrl = Url.Action("Cancel", "Home", null, Request.Scheme);
         StripeConfiguration.ApiKey = _stripeSettings.SecretKey;

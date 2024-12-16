@@ -483,7 +483,7 @@ $.extend( $.validator, {
 				checkElement = this.validationTargetFor( cleanElement ),
 				v = this,
 				result = true,
-				rs, group;
+				, group;
 
 			if ( checkElement === undefined ) {
 				delete this.invalid[ cleanElement.name ];
@@ -506,9 +506,9 @@ $.extend( $.validator, {
 					} );
 				}
 
-				rs = this.check( checkElement ) !== false;
-				result = result && rs;
-				if ( rs ) {
+				 = this.check( checkElement ) !== false;
+				result = result && ;
+				if (  ) {
 					this.invalid[ checkElement.name ] = false;
 				} else {
 					this.invalid[ checkElement.name ] = true;
@@ -522,7 +522,7 @@ $.extend( $.validator, {
 				this.showErrors();
 
 				// Add aria-invalid status for screen readers
-				$( element ).attr( "aria-invalid", !rs );
+				$( element ).attr( "aria-invalid", ! );
 			}
 
 			return result;
