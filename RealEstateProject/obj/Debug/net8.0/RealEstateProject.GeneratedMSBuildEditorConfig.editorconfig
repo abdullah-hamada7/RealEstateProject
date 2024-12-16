@@ -9,193 +9,193 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RealEstateProject
 build_property.RootNamespace = RealEstateProject
-build_property.ProjectDir = C:\Users\chief\source\repos\RealEstateProject\RealEstateProject\
+build_property.ProjectDir = D:\My Projects\RealEstateProject\RealEstateProject\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\chief\source\repos\RealEstateProject\RealEstateProject
+build_property.MSBuildProjectDirectory = D:\My Projects\RealEstateProject\RealEstateProject
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/chief/source/repos/RealEstateProject/RealEstateProject/Views/Home/ContactUs.cshtml]
+[D:/My Projects/RealEstateProject/RealEstateProject/Views/Home/ContactUs.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0VXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/chief/source/repos/RealEstateProject/RealEstateProject/Views/Home/CreateCheckoutSession.cshtml]
+[D:/My Projects/RealEstateProject/RealEstateProject/Views/Home/CreateCheckoutSession.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhdGVDaGVja291dFNlc3Npb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/chief/source/repos/RealEstateProject/RealEstateProject/Views/Home/Index.cshtml]
+[D:/My Projects/RealEstateProject/RealEstateProject/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/chief/source/repos/RealEstateProject/RealEstateProject/Views/Home/IndexForOwner.cshtml]
+[D:/My Projects/RealEstateProject/RealEstateProject/Views/Home/IndexForOwner.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleEZvck93bmVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/chief/source/repos/RealEstateProject/RealEstateProject/Views/Home/Privacy.cshtml]
+[D:/My Projects/RealEstateProject/RealEstateProject/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/chief/source/repos/RealEstateProject/RealEstateProject/Views/Home/SearchBox.cshtml]
+[D:/My Projects/RealEstateProject/RealEstateProject/Views/Home/SearchBox.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZWFyY2hCb3guY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/chief/source/repos/RealEstateProject/RealEstateProject/Views/Home/SearchBoxForOwner.cshtml]
+[D:/My Projects/RealEstateProject/RealEstateProject/Views/Home/SearchBoxForOwner.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZWFyY2hCb3hGb3JPd25lci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/chief/source/repos/RealEstateProject/RealEstateProject/Views/Login/LogIn.cshtml]
+[D:/My Projects/RealEstateProject/RealEstateProject/Views/Login/LogIn.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTG9nSW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/chief/source/repos/RealEstateProject/RealEstateProject/Views/Login/Otp.cshtml]
+[D:/My Projects/RealEstateProject/RealEstateProject/Views/Login/Otp.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cT3RwLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/chief/source/repos/RealEstateProject/RealEstateProject/Views/Login/SignUp.cshtml]
+[D:/My Projects/RealEstateProject/RealEstateProject/Views/Login/SignUp.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cU2lnblVwLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/chief/source/repos/RealEstateProject/RealEstateProject/Views/Login/SignUpCompleted.cshtml]
+[D:/My Projects/RealEstateProject/RealEstateProject/Views/Login/SignUpCompleted.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cU2lnblVwQ29tcGxldGVkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/chief/source/repos/RealEstateProject/RealEstateProject/Views/Owner/Dashboard.cshtml]
+[D:/My Projects/RealEstateProject/RealEstateProject/Views/Owner/Dashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3duZXJcRGFzaGJvYXJkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/chief/source/repos/RealEstateProject/RealEstateProject/Views/Owner/Profile.cshtml]
+[D:/My Projects/RealEstateProject/RealEstateProject/Views/Owner/Profile.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3duZXJcUHJvZmlsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/chief/source/repos/RealEstateProject/RealEstateProject/Views/Owner/Update.cshtml]
+[D:/My Projects/RealEstateProject/RealEstateProject/Views/Owner/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3duZXJcVXBkYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/chief/source/repos/RealEstateProject/RealEstateProject/Views/Property/AddProperty.cshtml]
+[D:/My Projects/RealEstateProject/RealEstateProject/Views/Property/AddProperty.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcGVydHlcQWRkUHJvcGVydHkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/chief/source/repos/RealEstateProject/RealEstateProject/Views/Property/ApartmentList.cshtml]
+[D:/My Projects/RealEstateProject/RealEstateProject/Views/Property/ApartmentList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcGVydHlcQXBhcnRtZW50TGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/chief/source/repos/RealEstateProject/RealEstateProject/Views/Property/ApartmentListForOwner.cshtml]
+[D:/My Projects/RealEstateProject/RealEstateProject/Views/Property/ApartmentListForOwner.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcGVydHlcQXBhcnRtZW50TGlzdEZvck93bmVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/chief/source/repos/RealEstateProject/RealEstateProject/Views/Property/BuildingList.cshtml]
+[D:/My Projects/RealEstateProject/RealEstateProject/Views/Property/BuildingList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcGVydHlcQnVpbGRpbmdMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/chief/source/repos/RealEstateProject/RealEstateProject/Views/Property/BuildingListForOwner.cshtml]
+[D:/My Projects/RealEstateProject/RealEstateProject/Views/Property/BuildingListForOwner.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcGVydHlcQnVpbGRpbmdMaXN0Rm9yT3duZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/chief/source/repos/RealEstateProject/RealEstateProject/Views/Property/HomeList.cshtml]
+[D:/My Projects/RealEstateProject/RealEstateProject/Views/Property/HomeList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcGVydHlcSG9tZUxpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/chief/source/repos/RealEstateProject/RealEstateProject/Views/Property/HomeListForOwner.cshtml]
+[D:/My Projects/RealEstateProject/RealEstateProject/Views/Property/HomeListForOwner.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcGVydHlcSG9tZUxpc3RGb3JPd25lci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/chief/source/repos/RealEstateProject/RealEstateProject/Views/Property/OfficeList.cshtml]
+[D:/My Projects/RealEstateProject/RealEstateProject/Views/Property/OfficeList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcGVydHlcT2ZmaWNlTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/chief/source/repos/RealEstateProject/RealEstateProject/Views/Property/OfficeListForOwner.cshtml]
+[D:/My Projects/RealEstateProject/RealEstateProject/Views/Property/OfficeListForOwner.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcGVydHlcT2ZmaWNlTGlzdEZvck93bmVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/chief/source/repos/RealEstateProject/RealEstateProject/Views/Property/PropertyDetails.cshtml]
+[D:/My Projects/RealEstateProject/RealEstateProject/Views/Property/PropertyDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcGVydHlcUHJvcGVydHlEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/chief/source/repos/RealEstateProject/RealEstateProject/Views/Property/PropertyDetailsForOwner.cshtml]
+[D:/My Projects/RealEstateProject/RealEstateProject/Views/Property/PropertyDetailsForOwner.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcGVydHlcUHJvcGVydHlEZXRhaWxzRm9yT3duZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/chief/source/repos/RealEstateProject/RealEstateProject/Views/Property/PropertyGetAll.cshtml]
+[D:/My Projects/RealEstateProject/RealEstateProject/Views/Property/PropertyGetAll.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcGVydHlcUHJvcGVydHlHZXRBbGwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/chief/source/repos/RealEstateProject/RealEstateProject/Views/Property/PropertyGetAllForOwner.cshtml]
+[D:/My Projects/RealEstateProject/RealEstateProject/Views/Property/PropertyGetAllForOwner.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcGVydHlcUHJvcGVydHlHZXRBbGxGb3JPd25lci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/chief/source/repos/RealEstateProject/RealEstateProject/Views/Property/PropertyTypeGetAll.cshtml]
+[D:/My Projects/RealEstateProject/RealEstateProject/Views/Property/PropertyTypeGetAll.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcGVydHlcUHJvcGVydHlUeXBlR2V0QWxsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/chief/source/repos/RealEstateProject/RealEstateProject/Views/Property/RentList.cshtml]
+[D:/My Projects/RealEstateProject/RealEstateProject/Views/Property/RentList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcGVydHlcUmVudExpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/chief/source/repos/RealEstateProject/RealEstateProject/Views/Property/RentListForOwner.cshtml]
+[D:/My Projects/RealEstateProject/RealEstateProject/Views/Property/RentListForOwner.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcGVydHlcUmVudExpc3RGb3JPd25lci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/chief/source/repos/RealEstateProject/RealEstateProject/Views/Property/SaleList.cshtml]
+[D:/My Projects/RealEstateProject/RealEstateProject/Views/Property/SaleList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcGVydHlcU2FsZUxpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/chief/source/repos/RealEstateProject/RealEstateProject/Views/Property/SaleListForOwner.cshtml]
+[D:/My Projects/RealEstateProject/RealEstateProject/Views/Property/SaleListForOwner.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcGVydHlcU2FsZUxpc3RGb3JPd25lci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/chief/source/repos/RealEstateProject/RealEstateProject/Views/Property/ShowOwnerPropertyList.cshtml]
+[D:/My Projects/RealEstateProject/RealEstateProject/Views/Property/ShowOwnerPropertyList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcGVydHlcU2hvd093bmVyUHJvcGVydHlMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/chief/source/repos/RealEstateProject/RealEstateProject/Views/Property/TownHouseList.cshtml]
+[D:/My Projects/RealEstateProject/RealEstateProject/Views/Property/TownHouseList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcGVydHlcVG93bkhvdXNlTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/chief/source/repos/RealEstateProject/RealEstateProject/Views/Property/TownHouseListForOwner.cshtml]
+[D:/My Projects/RealEstateProject/RealEstateProject/Views/Property/TownHouseListForOwner.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcGVydHlcVG93bkhvdXNlTGlzdEZvck93bmVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/chief/source/repos/RealEstateProject/RealEstateProject/Views/Property/villaList.cshtml]
+[D:/My Projects/RealEstateProject/RealEstateProject/Views/Property/villaList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcGVydHlcdmlsbGFMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/chief/source/repos/RealEstateProject/RealEstateProject/Views/Property/villaListForOwner.cshtml]
+[D:/My Projects/RealEstateProject/RealEstateProject/Views/Property/villaListForOwner.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcGVydHlcdmlsbGFMaXN0Rm9yT3duZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/chief/source/repos/RealEstateProject/RealEstateProject/Views/Shared/Error.cshtml]
+[D:/My Projects/RealEstateProject/RealEstateProject/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/chief/source/repos/RealEstateProject/RealEstateProject/Views/Shared/_LayoutLogin.cshtml]
+[D:/My Projects/RealEstateProject/RealEstateProject/Views/Shared/_LayoutLogin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/chief/source/repos/RealEstateProject/RealEstateProject/Views/Shared/_LayoutOwner.cshtml]
+[D:/My Projects/RealEstateProject/RealEstateProject/Views/Shared/_LayoutOwner.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRPd25lci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/chief/source/repos/RealEstateProject/RealEstateProject/Views/Shared/_LayoutWithoutFooter.cshtml]
+[D:/My Projects/RealEstateProject/RealEstateProject/Views/Shared/_LayoutWithoutFooter.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRXaXRob3V0Rm9vdGVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/chief/source/repos/RealEstateProject/RealEstateProject/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/My Projects/RealEstateProject/RealEstateProject/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/chief/source/repos/RealEstateProject/RealEstateProject/Views/_ViewImports.cshtml]
+[D:/My Projects/RealEstateProject/RealEstateProject/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/chief/source/repos/RealEstateProject/RealEstateProject/Views/_ViewStart.cshtml]
+[D:/My Projects/RealEstateProject/RealEstateProject/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/chief/source/repos/RealEstateProject/RealEstateProject/Views/Shared/_Layout.cshtml]
+[D:/My Projects/RealEstateProject/RealEstateProject/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-iita29bgur
