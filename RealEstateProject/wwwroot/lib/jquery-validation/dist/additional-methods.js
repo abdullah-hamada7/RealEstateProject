@@ -804,7 +804,7 @@ $.validator.addMethod( "iban", function( value, element ) {
 		"RO": "[A-Z]{4}[\\dA-Z]{16}",
 		"SM": "[A-Z]\\d{10}[\\dA-Z]{12}",
 		"SA": "\\d{2}[\\dA-Z]{18}",
-		"RS": "\\d{18}",
+		"": "\\d{18}",
 		"SK": "\\d{20}",
 		"SI": "\\d{15}",
 		"ES": "\\d{20}",
@@ -1466,7 +1466,7 @@ $.validator.addMethod( "vinUS", function( v ) {
 	var LL = [ "A", "B", "C", "D", "E", "F", "G", "H", "J", "K", "L", "M", "N", "P", "R", "S", "T", "U", "V", "W", "X", "Y", "Z" ],
 		VL = [ 1, 2, 3, 4, 5, 6, 7, 8, 1, 2, 3, 4, 5, 7, 9, 2, 3, 4, 5, 6, 7, 8, 9 ],
 		FL = [ 8, 7, 6, 5, 4, 3, 2, 10, 0, 9, 8, 7, 6, 5, 4, 3, 2 ],
-		rs = 0,
+		 = 0,
 		i, n, d, f, cd, cdv;
 
 	for ( i = 0; i < 17; i++ ) {
@@ -1489,9 +1489,9 @@ $.validator.addMethod( "vinUS", function( v ) {
 				}
 			}
 		}
-		rs += d;
+		 += d;
 	}
-	cd = rs % 11;
+	cd =  % 11;
 	if ( cd === 10 ) {
 		cd = "X";
 	}

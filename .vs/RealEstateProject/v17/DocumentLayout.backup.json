@@ -3,104 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|c:\\users\\chief\\source\\repos\\realestateproject\\realestateproject\\wwwroot\\theme\\css\\homestyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|solutionrelative:realestateproject\\wwwroot\\theme\\css\\homestyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|c:\\users\\chief\\source\\repos\\realestateproject\\realestateproject\\wwwroot\\theme\\css\\google web fonts.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|solutionrelative:realestateproject\\wwwroot\\theme\\css\\google web fonts.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|c:\\users\\chief\\source\\repos\\realestateproject\\realestateproject\\views\\shared\\_layoutowner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|solutionrelative:realestateproject\\views\\shared\\_layoutowner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|c:\\users\\chief\\source\\repos\\realestateproject\\realestateproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|solutionrelative:realestateproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|c:\\users\\chief\\source\\repos\\realestateproject\\realestateproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|solutionrelative:realestateproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|c:\\users\\chief\\source\\repos\\realestateproject\\realestateproject\\views\\home\\indexforowner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|solutionrelative:realestateproject\\views\\home\\indexforowner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|c:\\users\\chief\\source\\repos\\realestateproject\\realestateproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|solutionrelative:realestateproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|c:\\users\\chief\\source\\repos\\realestateproject\\realestateproject\\wwwroot\\theme\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|solutionrelative:realestateproject\\wwwroot\\theme\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|c:\\users\\chief\\source\\repos\\realestateproject\\realestateproject\\wwwroot\\theme\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|solutionrelative:realestateproject\\wwwroot\\theme\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|c:\\users\\chief\\source\\repos\\realestateproject\\realestateproject\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|solutionrelative:realestateproject\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|c:\\users\\chief\\source\\repos\\realestateproject\\realestateproject\\wwwroot\\css\\loginpage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|solutionrelative:realestateproject\\wwwroot\\css\\loginpage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D63E520-B028-42FD-AD69-37135F83D301}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\chief\\source\\repos\\realestateproject\\dataaccesslayer\\implementations\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D63E520-B028-42FD-AD69-37135F83D301}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\implementations\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|c:\\users\\chief\\source\\repos\\realestateproject\\realestateproject\\views\\shared\\_layoutwithoutfooter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|solutionrelative:realestateproject\\views\\shared\\_layoutwithoutfooter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|c:\\users\\chief\\source\\repos\\realestateproject\\realestateproject\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|solutionrelative:realestateproject\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|c:\\users\\chief\\source\\repos\\realestateproject\\realestateproject\\views\\property\\showownerpropertylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|solutionrelative:realestateproject\\views\\property\\showownerpropertylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|c:\\users\\chief\\source\\repos\\realestateproject\\realestateproject\\views\\owner\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|solutionrelative:realestateproject\\views\\owner\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|c:\\users\\chief\\source\\repos\\realestateproject\\realestateproject\\views\\owner\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|solutionrelative:realestateproject\\views\\owner\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|c:\\users\\chief\\source\\repos\\realestateproject\\realestateproject\\views\\owner\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|solutionrelative:realestateproject\\views\\owner\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|c:\\users\\chief\\source\\repos\\realestateproject\\realestateproject\\views\\home\\searchbox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|solutionrelative:realestateproject\\views\\home\\searchbox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|c:\\users\\chief\\source\\repos\\realestateproject\\realestateproject\\views\\home\\searchboxforowner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|solutionrelative:realestateproject\\views\\home\\searchboxforowner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|c:\\users\\chief\\source\\repos\\realestateproject\\realestateproject\\views\\property\\homelistforowner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|solutionrelative:realestateproject\\views\\property\\homelistforowner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|c:\\users\\chief\\source\\repos\\realestateproject\\realestateproject\\views\\property\\propertygetall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|solutionrelative:realestateproject\\views\\property\\propertygetall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|c:\\users\\chief\\source\\repos\\realestateproject\\realestateproject\\views\\property\\homelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|solutionrelative:realestateproject\\views\\property\\homelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|c:\\users\\chief\\source\\repos\\realestateproject\\realestateproject\\views\\property\\addproperty.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|solutionrelative:realestateproject\\views\\property\\addproperty.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|c:\\users\\chief\\source\\repos\\realestateproject\\realestateproject\\views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|solutionrelative:realestateproject\\views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D63E520-B028-42FD-AD69-37135F83D301}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\chief\\source\\repos\\realestateproject\\dataaccesslayer\\domainmodels\\contactus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D63E520-B028-42FD-AD69-37135F83D301}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\domainmodels\\contactus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|c:\\users\\chief\\source\\repos\\realestateproject\\realestateproject\\views\\property\\propertydetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|solutionrelative:realestateproject\\views\\property\\propertydetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D63E520-B028-42FD-AD69-37135F83D301}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\chief\\source\\repos\\realestateproject\\dataaccesslayer\\data\\realestatecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D63E520-B028-42FD-AD69-37135F83D301}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\data\\realestatecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|c:\\users\\chief\\source\\repos\\realestateproject\\realestateproject\\views\\property\\rentlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|solutionrelative:realestateproject\\views\\property\\rentlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|c:\\users\\chief\\source\\repos\\realestateproject\\realestateproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|solutionrelative:realestateproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|c:\\users\\chief\\source\\repos\\realestateproject\\realestateproject\\views\\home\\indexforowner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|solutionrelative:realestateproject\\views\\home\\indexforowner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|c:\\users\\chief\\source\\repos\\realestateproject\\realestateproject\\views\\property\\salelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|solutionrelative:realestateproject\\views\\property\\salelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|c:\\users\\chief\\source\\repos\\realestateproject\\realestateproject\\views\\property\\propertygetallforowner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|solutionrelative:realestateproject\\views\\property\\propertygetallforowner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|c:\\users\\chief\\source\\repos\\realestateproject\\realestateproject\\views\\shared\\_layoutowner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|solutionrelative:realestateproject\\views\\shared\\_layoutowner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D63E520-B028-42FD-AD69-37135F83D301}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\chief\\source\\repos\\realestateproject\\dataaccesslayer\\viewmodels\\propertylistplustypevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D63E520-B028-42FD-AD69-37135F83D301}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\viewmodels\\propertylistplustypevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|c:\\users\\chief\\source\\repos\\realestateproject\\realestateproject\\views\\owner\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|solutionrelative:realestateproject\\views\\owner\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|c:\\users\\chief\\source\\repos\\realestateproject\\realestateproject\\views\\owner\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|solutionrelative:realestateproject\\views\\owner\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|c:\\users\\chief\\source\\repos\\realestateproject\\realestateproject\\views\\owner\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64DF5460-E40D-404D-B807-3FF45D3035FA}|RealEstateProject\\RealEstateProject.csproj|solutionrelative:realestateproject\\views\\owner\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -110,201 +74,189 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Google web fonts.css",
-              "DocumentMoniker": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\wwwroot\\theme\\css\\Google web fonts.css",
-              "RelativeDocumentMoniker": "RealEstateProject\\wwwroot\\theme\\css\\Google web fonts.css",
-              "ToolTip": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\wwwroot\\theme\\css\\Google web fonts.css",
-              "RelativeToolTip": "RealEstateProject\\wwwroot\\theme\\css\\Google web fonts.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-15T17:16:17.598Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "homestyle.css",
-              "DocumentMoniker": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\wwwroot\\theme\\css\\homestyle.css",
-              "RelativeDocumentMoniker": "RealEstateProject\\wwwroot\\theme\\css\\homestyle.css",
-              "ToolTip": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\wwwroot\\theme\\css\\homestyle.css",
-              "RelativeToolTip": "RealEstateProject\\wwwroot\\theme\\css\\homestyle.css",
-              "ViewState": "AgIAAGUBAAAAAAAAAAAAAG8BAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-15T16:20:59.631Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "bootstrap.min.css",
-              "DocumentMoniker": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\wwwroot\\theme\\css\\bootstrap.min.css",
-              "RelativeDocumentMoniker": "RealEstateProject\\wwwroot\\theme\\css\\bootstrap.min.css",
-              "ToolTip": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\wwwroot\\theme\\css\\bootstrap.min.css",
-              "RelativeToolTip": "RealEstateProject\\wwwroot\\theme\\css\\bootstrap.min.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-15T16:22:17.154Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "style.css",
-              "DocumentMoniker": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\wwwroot\\theme\\css\\style.css",
-              "RelativeDocumentMoniker": "RealEstateProject\\wwwroot\\theme\\css\\style.css",
-              "ToolTip": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\wwwroot\\theme\\css\\style.css",
-              "RelativeToolTip": "RealEstateProject\\wwwroot\\theme\\css\\style.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKwAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-15T16:20:57.558Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "RealEstateProject\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "RealEstateProject\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAHcAAAAAAAAAAADwv4sAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-15T16:20:35.337Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "RealEstateProject\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "RealEstateProject\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-04T10:44:37.457Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "IndexForOwner.cshtml",
-              "DocumentMoniker": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\Views\\Home\\IndexForOwner.cshtml",
-              "RelativeDocumentMoniker": "RealEstateProject\\Views\\Home\\IndexForOwner.cshtml",
-              "ToolTip": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\Views\\Home\\IndexForOwner.cshtml",
-              "RelativeToolTip": "RealEstateProject\\Views\\Home\\IndexForOwner.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Title": "AddProperty.cshtml",
+              "DocumentMoniker": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\Views\\Property\\AddProperty.cshtml",
+              "RelativeDocumentMoniker": "RealEstateProject\\Views\\Property\\AddProperty.cshtml",
+              "ToolTip": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\Views\\Property\\AddProperty.cshtml",
+              "RelativeToolTip": "RealEstateProject\\Views\\Property\\AddProperty.cshtml",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAAEoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-04T10:53:07.7Z",
+              "WhenOpened": "2024-12-16T20:48:52.964Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "ContactUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\Views\\Home\\ContactUs.cshtml",
+              "RelativeDocumentMoniker": "RealEstateProject\\Views\\Home\\ContactUs.cshtml",
+              "ToolTip": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\Views\\Home\\ContactUs.cshtml",
+              "RelativeToolTip": "RealEstateProject\\Views\\Home\\ContactUs.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T20:32:53.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeList.cshtml",
+              "DocumentMoniker": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\Views\\Property\\HomeList.cshtml",
+              "RelativeDocumentMoniker": "RealEstateProject\\Views\\Property\\HomeList.cshtml",
+              "ToolTip": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\Views\\Property\\HomeList.cshtml",
+              "RelativeToolTip": "RealEstateProject\\Views\\Property\\HomeList.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwCEAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T20:20:42.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "RealEstateProject\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "RealEstateProject\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAABoAAAAAAAAAAAAgwCkAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "RealEstateProject\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAANIAAAAAAAAAAAAAAOIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-04T10:55:07.419Z",
+              "WhenOpened": "2024-12-16T11:32:05.554Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "_LayoutOwner.cshtml",
-              "DocumentMoniker": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\Views\\Shared\\_LayoutOwner.cshtml",
-              "RelativeDocumentMoniker": "RealEstateProject\\Views\\Shared\\_LayoutOwner.cshtml",
-              "ToolTip": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\Views\\Shared\\_LayoutOwner.cshtml",
-              "RelativeToolTip": "RealEstateProject\\Views\\Shared\\_LayoutOwner.cshtml",
-              "ViewState": "AgIAAIwAAAAAAAAAAAAAAIUAAABDAAAAAAAAAA==",
+              "Title": "PropertyGetAll.cshtml",
+              "DocumentMoniker": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\Views\\Property\\PropertyGetAll.cshtml",
+              "RelativeDocumentMoniker": "RealEstateProject\\Views\\Property\\PropertyGetAll.cshtml",
+              "ToolTip": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\Views\\Property\\PropertyGetAll.cshtml",
+              "RelativeToolTip": "RealEstateProject\\Views\\Property\\PropertyGetAll.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwCIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-04T10:44:26.668Z",
+              "WhenOpened": "2024-12-16T16:24:01.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RealEstateProject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RealEstateProject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEsAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T12:24:47.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RentList.cshtml",
+              "DocumentMoniker": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\Views\\Property\\RentList.cshtml",
+              "RelativeDocumentMoniker": "RealEstateProject\\Views\\Property\\RentList.cshtml",
+              "ToolTip": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\Views\\Property\\RentList.cshtml",
+              "RelativeToolTip": "RealEstateProject\\Views\\Property\\RentList.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACsAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T19:36:08.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IndexForOwner.cshtml",
+              "DocumentMoniker": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\Views\\Home\\IndexForOwner.cshtml",
+              "RelativeDocumentMoniker": "RealEstateProject\\Views\\Home\\IndexForOwner.cshtml",
+              "ToolTip": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\Views\\Home\\IndexForOwner.cshtml",
+              "RelativeToolTip": "RealEstateProject\\Views\\Home\\IndexForOwner.cshtml",
+              "ViewState": "AgIAALAAAAAAAAAAAAAAANkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T19:07:55.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PropertyDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\Views\\Property\\PropertyDetails.cshtml",
+              "RelativeDocumentMoniker": "RealEstateProject\\Views\\Property\\PropertyDetails.cshtml",
+              "ToolTip": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\Views\\Property\\PropertyDetails.cshtml",
+              "RelativeToolTip": "RealEstateProject\\Views\\Property\\PropertyDetails.cshtml",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAAF8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T16:23:58.374Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "loginPage.css",
-              "DocumentMoniker": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\wwwroot\\css\\loginPage.css",
-              "RelativeDocumentMoniker": "RealEstateProject\\wwwroot\\css\\loginPage.css",
-              "ToolTip": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\wwwroot\\css\\loginPage.css",
-              "RelativeToolTip": "RealEstateProject\\wwwroot\\css\\loginPage.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-15T16:20:33.001Z",
+              "Title": "SaleList.cshtml",
+              "DocumentMoniker": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\Views\\Property\\SaleList.cshtml",
+              "RelativeDocumentMoniker": "RealEstateProject\\Views\\Property\\SaleList.cshtml",
+              "ToolTip": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\Views\\Property\\SaleList.cshtml",
+              "RelativeToolTip": "RealEstateProject\\Views\\Property\\SaleList.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACAAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T11:37:08.579Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "LoginRepository.cs",
-              "DocumentMoniker": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\DataAccessLayer\\Implementations\\LoginRepository.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\Implementations\\LoginRepository.cs",
-              "ToolTip": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\DataAccessLayer\\Implementations\\LoginRepository.cs",
-              "RelativeToolTip": "DataAccessLayer\\Implementations\\LoginRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T15:45:36.368Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "RealEstateProject\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "RealEstateProject\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T15:45:02.048Z",
+              "Title": "PropertyGetAllForOwner.cshtml",
+              "DocumentMoniker": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\Views\\Property\\PropertyGetAllForOwner.cshtml",
+              "RelativeDocumentMoniker": "RealEstateProject\\Views\\Property\\PropertyGetAllForOwner.cshtml",
+              "ToolTip": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\Views\\Property\\PropertyGetAllForOwner.cshtml",
+              "RelativeToolTip": "RealEstateProject\\Views\\Property\\PropertyGetAllForOwner.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T16:24:07.836Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "_LayoutWithoutFooter.cshtml",
-              "DocumentMoniker": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\Views\\Shared\\_LayoutWithoutFooter.cshtml",
-              "RelativeDocumentMoniker": "RealEstateProject\\Views\\Shared\\_LayoutWithoutFooter.cshtml",
-              "ToolTip": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\Views\\Shared\\_LayoutWithoutFooter.cshtml",
-              "RelativeToolTip": "RealEstateProject\\Views\\Shared\\_LayoutWithoutFooter.cshtml",
+              "Title": "_LayoutOwner.cshtml",
+              "DocumentMoniker": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\Views\\Shared\\_LayoutOwner.cshtml",
+              "RelativeDocumentMoniker": "RealEstateProject\\Views\\Shared\\_LayoutOwner.cshtml",
+              "ToolTip": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\Views\\Shared\\_LayoutOwner.cshtml",
+              "RelativeToolTip": "RealEstateProject\\Views\\Shared\\_LayoutOwner.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-15T15:45:30.066Z",
+              "WhenOpened": "2024-12-16T16:16:44.559Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ShowOwnerPropertyList.cshtml",
-              "DocumentMoniker": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\Views\\Property\\ShowOwnerPropertyList.cshtml",
-              "RelativeDocumentMoniker": "RealEstateProject\\Views\\Property\\ShowOwnerPropertyList.cshtml",
-              "ToolTip": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\Views\\Property\\ShowOwnerPropertyList.cshtml",
-              "RelativeToolTip": "RealEstateProject\\Views\\Property\\ShowOwnerPropertyList.cshtml",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAiwCQAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-04T11:12:48.428Z",
+              "DocumentIndex": 12,
+              "Title": "PropertyListPlusTypeVM.cs",
+              "DocumentMoniker": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\DataAccessLayer\\ViewModels\\PropertyListPlusTypeVM.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\ViewModels\\PropertyListPlusTypeVM.cs",
+              "ToolTip": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\DataAccessLayer\\ViewModels\\PropertyListPlusTypeVM.cs",
+              "RelativeToolTip": "DataAccessLayer\\ViewModels\\PropertyListPlusTypeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T16:16:02.017Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 14,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\Views\\Owner\\Update.cshtml",
               "RelativeDocumentMoniker": "RealEstateProject\\Views\\Owner\\Update.cshtml",
               "ToolTip": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\Views\\Owner\\Update.cshtml",
               "RelativeToolTip": "RealEstateProject\\Views\\Owner\\Update.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-04T10:59:17.642Z"
+              "WhenOpened": "2024-12-16T11:36:43.888Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -314,117 +266,23 @@
               "RelativeDocumentMoniker": "RealEstateProject\\Views\\Owner\\Profile.cshtml",
               "ToolTip": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\Views\\Owner\\Profile.cshtml",
               "RelativeToolTip": "RealEstateProject\\Views\\Owner\\Profile.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAACwAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-04T10:59:00.781Z"
+              "WhenOpened": "2024-12-16T11:36:35.134Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "Dashboard.cshtml",
               "DocumentMoniker": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\Views\\Owner\\Dashboard.cshtml",
               "RelativeDocumentMoniker": "RealEstateProject\\Views\\Owner\\Dashboard.cshtml",
               "ToolTip": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\Views\\Owner\\Dashboard.cshtml",
               "RelativeToolTip": "RealEstateProject\\Views\\Owner\\Dashboard.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-04T10:58:55.11Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "SearchBox.cshtml",
-              "DocumentMoniker": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\Views\\Home\\SearchBox.cshtml",
-              "RelativeDocumentMoniker": "RealEstateProject\\Views\\Home\\SearchBox.cshtml",
-              "ToolTip": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\Views\\Home\\SearchBox.cshtml",
-              "RelativeToolTip": "RealEstateProject\\Views\\Home\\SearchBox.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-04T10:53:19.639Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "SearchBoxForOwner.cshtml",
-              "DocumentMoniker": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\Views\\Home\\SearchBoxForOwner.cshtml",
-              "RelativeDocumentMoniker": "RealEstateProject\\Views\\Home\\SearchBoxForOwner.cshtml",
-              "ToolTip": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\Views\\Home\\SearchBoxForOwner.cshtml",
-              "RelativeToolTip": "RealEstateProject\\Views\\Home\\SearchBoxForOwner.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-04T10:53:14.843Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "HomeListForOwner.cshtml",
-              "DocumentMoniker": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\Views\\Property\\HomeListForOwner.cshtml",
-              "RelativeDocumentMoniker": "RealEstateProject\\Views\\Property\\HomeListForOwner.cshtml",
-              "ToolTip": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\Views\\Property\\HomeListForOwner.cshtml",
-              "RelativeToolTip": "RealEstateProject\\Views\\Property\\HomeListForOwner.cshtml",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-04T10:49:36.046Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "HomeList.cshtml",
-              "DocumentMoniker": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\Views\\Property\\HomeList.cshtml",
-              "RelativeDocumentMoniker": "RealEstateProject\\Views\\Property\\HomeList.cshtml",
-              "ToolTip": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\Views\\Property\\HomeList.cshtml",
-              "RelativeToolTip": "RealEstateProject\\Views\\Property\\HomeList.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-04T10:43:08.34Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "RealEstateContext.cs",
-              "DocumentMoniker": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\DataAccessLayer\\Data\\RealEstateContext.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\Data\\RealEstateContext.cs",
-              "ToolTip": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\DataAccessLayer\\Data\\RealEstateContext.cs",
-              "RelativeToolTip": "DataAccessLayer\\Data\\RealEstateContext.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAADwvxMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T22:02:32.346Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "ContactUs.cs",
-              "DocumentMoniker": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\DataAccessLayer\\DomainModels\\ContactUs.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\DomainModels\\ContactUs.cs",
-              "ToolTip": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\DataAccessLayer\\DomainModels\\ContactUs.cs",
-              "RelativeToolTip": "DataAccessLayer\\DomainModels\\ContactUs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T21:58:49.161Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ContactUs.cshtml",
-              "DocumentMoniker": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\Views\\Home\\ContactUs.cshtml",
-              "RelativeDocumentMoniker": "RealEstateProject\\Views\\Home\\ContactUs.cshtml",
-              "ToolTip": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\Views\\Home\\ContactUs.cshtml",
-              "RelativeToolTip": "RealEstateProject\\Views\\Home\\ContactUs.cshtml",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAcwF0AAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-03T21:53:31.52Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "RealEstateProject\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\chief\\source\\repos\\RealEstateProject\\RealEstateProject\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "RealEstateProject\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAAAE8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T21:48:45.802Z"
+              "WhenOpened": "2024-12-16T11:35:17.954Z",
+              "EditorCaption": ""
             }
           ]
         }

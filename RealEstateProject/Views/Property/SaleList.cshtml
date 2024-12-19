@@ -21,86 +21,37 @@
                                 @ViewBag.ErrorMessage
                             </div>
                         }
-                        <ul class="property-list has-scrollbar">
-            @foreach (var property in Model)
-            {
-                    <li>
-                        <div class="property-card">
+                        <div class="tab-content">
+                            <div id="tab-1" class="tab-pane fade show p-0 active">
+                                <div class="row g-4">
 
-                            <figure class="card-banner">
+                                    @foreach (var property in Model)
+                                    {
+                                        <div class="col-lg-4 col-md-6">
+                                            <div class="property-item rounded overflow-hidden">
+                                                <div class="position-relative overflow-hidden">
+                                                    <a asp-action="PropertyDetails" asp-controller="Property" asp-route-id="@property.Id"><img class="img-fluid property-image" src="~/images/@property.Image" alt=""></a>
+                                                    <div class="bg-primary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">@property.Choice</div>
+                                                    <div class="bg-white rounded-top text-primary position-absolute start-0 bottom-0 mx-4 pt-1 px-3">@property.type</div>
+                                                </div>
+                                                <div class="p-4 pb-0">
+                                                    <h5 class="text-primary mb-3">EGP @property.Price</h5>
+                                                    <a class="d-block h5 mb-2" asp-action="PropertyDetails" asp-controller="Property" asp-route-id="@property.Id">@property.Title</a>
+                                                    <p><i class="fa fa-map-marker-alt text-primary me-2"></i>@property.Address</p>
+                                                </div>
+                                                <div class="d-flex border-top">
+                                                    <small class="flex-fill text-center border-end py-2"><i class="fa fa-ruler-combined text-primary me-2"></i>@property.Size Metre</small>
+                                                    <small class="flex-fill text-center border-end py-2"><i class="fa fa-bed text-primary me-2"></i>@property.Rooms beds</small>
+                                                    <small class="flex-fill text-center py-2"><i class="fa fa-bath text-primary me-2"></i>@property.Baths baths</small>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    }
 
-                                <a asp-action="PropertyDetails" asp-controller="Property" asp-route-id="@property.Id">
-                                    <img src="~/images/@property.Image" alt="@property.Title" class="w-100">
-                                </a>
-
-                                <div class="card-badge @(property.Choice == "For Rent" ? "green" : "blue")">
-                                @property.Choice
-                                </div>
-
-                                <div class="banner-actions">
-                                    <button class="banner-actions-btn">
-                                        <ion-icon name="location"></ion-icon>
-                                        <address>@property.Address</address>
-                                    </button>
-                                </div>
-
-                            </figure>
-
-                            <div class="card-content">
-
-                                <div class="card-price">
-                                    <strong>EGP @property.Price</strong> 
-                                @(property.Choice == "For Rent" ? "/Month" : "")
-                                </div>
-
-                                <h3 class="h3 card-title">
-                                    <a asp-action="PropertyDetails" asp-controller="Property" asp-route-id="@property.Id">
-                                    @property.Title
-                                    </a>
-                                </h3>
-
-                                <ul class="card-list">
-
-                                    <li class="card-item">
-                                        <strong>@property.Rooms</strong>
-                                        <ion-icon name="bed-outline"></ion-icon>
-                                        <span>Bedrooms</span>
-                                    </li>
-
-                                    <li class="card-item">
-                                        <strong>@property.Baths</strong>
-                                        <ion-icon name="man-outline"></ion-icon>
-                                        <span>Bathrooms</span>
-                                    </li>
-
-                                    <li class="card-item">
-                                        <strong>@property.Size</strong>
-                                        <ion-icon name="square-outline"></ion-icon>
-                                        <span>Metre</span>
-                                    </li>
-
-                                </ul>
-
-                            </div>
-
-                            <div class="card-footer">
-                                <div class="card-footer-actions">
-                                    <button class="card-footer-actions-btn">
-                                        <ion-icon name="resize-outline"></ion-icon>
-                                    </button>
-                                    <button class="card-footer-actions-btn">
-                                        <ion-icon name="heart-outline"></ion-icon>
-                                    </button>
-                                    <button class="card-footer-actions-btn">
-                                        <ion-icon name="add-circle-outline"></ion-icon>
-                                    </button>
                                 </div>
                             </div>
 
                         </div>
-                    </li>
-            }
-        </ul>
 
                         <a class="btn btn-outline-primary" asp-action="Index" asp-controller="Home">Back</a>
 

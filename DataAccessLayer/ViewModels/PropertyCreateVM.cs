@@ -12,7 +12,7 @@ public class PropertyCreateVM
 
         [Display(Name = "Price")]
         [Required(ErrorMessage = "Price is required.")]
-        [Range(1, 10000, ErrorMessage = "Price must be between 1 lac and 10000 lacs.")]
+        [Range(1, 10000, ErrorMessage = "Price must be between 1 EGP and 10000 lacs.")]
         public decimal Price { get; set; }
 
 
@@ -27,7 +27,7 @@ public class PropertyCreateVM
 
         [Display(Name = "Size")]
         [Required(ErrorMessage = "Size is required.")]
-        [Range(1, 1000, ErrorMessage = "Size must be between 1 and 1000 marla")]
+        [Range(1, 1000, ErrorMessage = "Size must be between 1 and 1000 metre")]
         public int Size { get; set; }
 
 
